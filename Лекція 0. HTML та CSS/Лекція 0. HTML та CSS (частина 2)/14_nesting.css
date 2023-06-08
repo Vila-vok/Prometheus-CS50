@@ -1,0 +1,9 @@
+div {
+  font-size: 18px;
+}
+div p {/*селектор нащадків*/
+  color: blue;
+}
+div ul {/*селектор нащадків*/
+  color: green;
+}

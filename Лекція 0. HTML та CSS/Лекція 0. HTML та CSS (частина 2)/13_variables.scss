@@ -1,0 +1,10 @@
+$color: red;//створення зміної 'color' значення якої - червоний
+
+ul {
+	font-size: 14px;
+	color: $color;//використання змінної 
+}
+ol{
+	font-size: 18px;
+	color: $color;//використання зміної
+}
